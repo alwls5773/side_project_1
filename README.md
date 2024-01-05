@@ -5,3 +5,4 @@ alt(alanine aminotransferase)의 수치가 낮을 수록 알츠하이머 병의 
 
 해당 데이터는 알츠하이머 환자들을 대상으로 여러 설문조사를 한 데이터로, 여러 습관 혹은 요인들이 alt 수치에 어떠한 영향을 미쳤는지, 즉 알츠하이머에 어떤 영향을 미쳤는지 판단하고자 함.
 
+![image](https://github.com/alwls5773/side-project/assets/66359601/b9e63ed6-af62-4477-9e2e-dc7f8c014912)
