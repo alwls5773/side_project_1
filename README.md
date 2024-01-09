@@ -48,9 +48,13 @@ alt가 높게 나타난 그룹은 cholesterol checked in past 5 years 그룹, ch
 
 따라서 권장 백신을 접종하는 것보다 당뇨병, 고혈압을 관리하는 것이 긍정적인 영향을 미치며 그 중에서도 콜레스테롤을 관리하는 것이 가장 긍정적인 영향을 미침.
 
-### 결론
-흡연, 잦은 우울, 과음, 만성 우울, 신체적으로 힘든 날들이 알츠하이머에 부정적인 영향을 미침.
-
 ##### 주의
 ![image](https://github.com/alwls5773/side-project/assets/66359601/7700e5ad-79ad-4643-a24b-4e0d723c1b39)
 현재 각 클래스의 표본의 수가 작음. 따라서 클래스 내에서의 분석 결과는 정확하지 않으며, 신뢰도가 떨어지는 경향이 있음. 또한 클래스 간 크기도 동일하지 않으므로 주의해야 함
+
+### 결론
+![image](https://github.com/alwls5773/side-project/assets/66359601/81d63933-20bb-494e-98a3-b64bb0dae339)
+알츠하이머에 부정적인 영향을 미치는 10가지 요소를 파악하였음. <Physically unhealthy days (mean number of days), Recent activity limitations in past month, Binge drinking within past 30 days>이 가장 안좋은 영향을 미치는 것을 알 수 있음. 따라서 알츠하이머 환자들에게 운동을 많이 격려하고, 술을 덜 마시는 게 좋을 것이다.
+
+![image](https://github.com/alwls5773/side-project/assets/66359601/0de98f9e-af3a-417f-92ec-55715be75873)
+알츠하이머에 긍정적인 영향을 미치는 10가지 요소를 파악하였음. <Cholesterol checked in past 5 years, Taking medication for high blood pressure, Self-rated health (good to excellent health)>이 가장 좋은 영향을 미치는 것을 알 수 있음. 따라서 알츠하이머 환자들에게 지속적으로 Cholestreol 수치를 검사하고, 고혈압이 있을 시 약을 잘 복용하도록 격려하는 것이 추천됨
