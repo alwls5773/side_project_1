@@ -54,7 +54,7 @@ alt가 높게 나타난 그룹은 cholesterol checked in past 5 years 그룹, ch
 
 ### 결론
 ![image](https://github.com/alwls5773/side-project/assets/66359601/81d63933-20bb-494e-98a3-b64bb0dae339)
-알츠하이머에 부정적인 영향을 미치는 10가지 요소를 파악하였음. <Physically unhealthy days (mean number of days), Recent activity limitations in past month, Binge drinking within past 30 days>이 가장 안좋은 영향을 미치는 것을 알 수 있음. 따라서 알츠하이머 환자들에게 운동을 많이 격려하고, 술을 덜 마시는 게 좋을 것이다.
+알츠하이머 환자들에게 운동을 많이 격려하고, 술을 덜 마시는 게 좋을 것이다.
 
 ![image](https://github.com/alwls5773/side-project/assets/66359601/0de98f9e-af3a-417f-92ec-55715be75873)
-알츠하이머에 긍정적인 영향을 미치는 10가지 요소를 파악하였음. <Cholesterol checked in past 5 years, Taking medication for high blood pressure, Self-rated health (good to excellent health)>이 가장 좋은 영향을 미치는 것을 알 수 있음. 따라서 알츠하이머 환자들에게 지속적으로 Cholestreol 수치를 검사하고, 고혈압이 있을 시 약을 잘 복용하도록 격려하는 것이 추천됨
+알츠하이머 환자들에게 지속적으로 Cholestreol 수치를 검사하고, 고혈압이 있을 시 약을 잘 복용하도록 격려하는 것이 추천됨
