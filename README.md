@@ -11,9 +11,11 @@ alt(alanine aminotransferase)의 수치가 낮을 수록 알츠하이머 병의 
 
 ![image](https://github.com/alwls5773/side-project/assets/66359601/77f59c33-9164-41c4-bbfa-40b7ae67dfd7)
 ![image](https://github.com/alwls5773/side-project/assets/66359601/6caa254b-e38c-4d0f-aa05-0a8977bacedc)
+
 위의 사진을 통해 나이와 성별은 큰 영향을 미치지 않을 수도 있음을 확인함.
 
 ![image](https://github.com/alwls5773/side-project/assets/66359601/10a3b1bc-5a81-416e-a477-1411eca0e578)
+
 전체 평균을 넘는 그룹은 Overall Health 그룹과 Screenings and Vaccines 그룹임. 
 Screenings and Vaccines 그룹이 가장 높으며 Overall Health 그룹이 두번째로 높음. 
 그 후 Caregiving과 Nutrition/Physical Acticity/Obesity, cognitive decline 그룹 순으로 높지만, 이 세 그룹은 비슷한 수치를 보임. 
@@ -53,11 +55,14 @@ alt가 높게 나타난 그룹은 cholesterol checked in past 5 years 그룹, ch
 
 ##### 주의
 ![image](https://github.com/alwls5773/side-project/assets/66359601/7700e5ad-79ad-4643-a24b-4e0d723c1b39)
+
 현재 각 클래스의 표본의 수가 작음. 따라서 클래스 내에서의 분석 결과는 정확하지 않으며, 신뢰도가 떨어지는 경향이 있음. 또한 클래스 간 크기도 동일하지 않으므로 주의해야 함
 
 ### 결론
 ![image](https://github.com/alwls5773/side-project/assets/66359601/81d63933-20bb-494e-98a3-b64bb0dae339)
+
 알츠하이머 환자들에게 운동을 많이 격려하고, 술을 덜 마시는 게 좋을 것이다.
 
 ![image](https://github.com/alwls5773/side-project/assets/66359601/0de98f9e-af3a-417f-92ec-55715be75873)
+
 알츠하이머 환자들에게 지속적으로 Cholestreol 수치를 검사하고, 고혈압이 있을 시 약을 잘 복용하도록 격려하는 것이 추천됨
