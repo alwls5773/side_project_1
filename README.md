@@ -1,4 +1,4 @@
-### about Alzheimer: what factors have a good or bad influence
+## about Alzheimer: what factors have a good or bad influence
 #### 목적: 알츠하이머에 영향을 미치는 주요 요인 및 습관 분석
 #### 분석 tool: pandas
 #### 결론: 긍정적인 요인으로는 보유 질환 관리가 있으며 부정적인 요인으로는 급격한 활동 저하와 같은 것들이 있음. 따라서 평소 건강 관리를 잘하는 것이 중요한 것으로 나타남.
